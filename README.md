@@ -1,6 +1,17 @@
 ## Hi there 👋
 Webだったりアプリだったりつくってます
 
+### つかえる、さわったことがある言語
+![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=cs,python,html,css,js,googleappsscript,ruby,kotlin,ts,mysql,cpp)
+### つかえる、さわったことがあるソフトウェア・フレームワーク
+![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=unity,androidstudio,vscode,bootstrap,electron,flask,nodejs,dotnet,githubpages,jetpackcompose,anaconda,deno,hono,opencv,express,tensorflow,replit,firebase,jekyll,puppeteer)
+### まなびたい言語
+![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=java,rust,go)  
+### まなびたいライブラリ・フレームワーク
+![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=react,nextjs,svelte,vite,workers)
+
+---
+
 [![](https://raw.githubusercontent.com/naoyuki2110/naoyuki2110/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/naoyuki2110/naoyuki2110/main/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naoyuki2110/naoyuki2110/main/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/naoyuki2110/naoyuki2110/main/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/naoyuki2110/naoyuki2110/main/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
