@@ -4,11 +4,11 @@ Webだったりアプリだったりつくってます
 ### つかえる、さわったことがある言語
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=cs,python,html,css,js,googleappsscript,ruby,kotlin,ts,mysql,cpp)
 ### つかえる、さわったことがあるソフトウェア・フレームワーク
-![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=unity,androidstudio,vscode,bootstrap,electron,flask,nodejs,dotnet,githubpages,jetpackcompose,anaconda,deno,hono,opencv,express,tensorflow,replit,firebase,jekyll,puppeteer)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=unity,androidstudio,vscode,bootstrap,electron,flask,nodejs,dotnet,githubpages,jetpackcompose,anaconda,deno,hono,opencv,express,tensorflow,replit,firebase,jekyll,puppeteer,workers)
 ### まなびたい言語
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=java,rust,go)  
 ### まなびたいライブラリ・フレームワーク
-![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=react,nextjs,svelte,vite,workers)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?theme=dark&i=react,nextjs,vite,docker,k8s)
 
 ---
 
